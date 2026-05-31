@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"],"dg-note-properties":{"cssclasses":["myhome"],"banner_x":0.55809,"banner_y":0.255,"banner":"02 ・ 日記/日記写真/カバー/homepagevideo.gif","banner_icon":"📆"}}
+{"dg-publish":true,"permalink":"/homepage/","dg-note-properties":{"cssclasses":["myhome"],"banner_x":0.55809,"banner_y":0.255,"banner":"02 ・ 日記/日記写真/カバー/homepagevideo.gif","banner_icon":"📆"}}
 ---
 
 
@@ -18,7 +18,7 @@
 
 
 **OBSIDIAN ACTIVITY**
-<p><span>You have been using <em>Obsidian</em> for 365 days, with 994 notes, 66 tags, 242 tasks created. </span></p>
+<p><span>You have been using <em>Obsidian</em> for 365 days, with 995 notes, 66 tags, 242 tasks created. </span></p>
 
 
 
